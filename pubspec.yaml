@@ -1,0 +1,11 @@
+name: monolite
+description: "MonoLite - A MongoDB-compatible single-file embedded document database for Dart/Flutter"
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
